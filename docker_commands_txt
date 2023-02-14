@@ -1,0 +1,13 @@
+
+docker ps -a
+
+docker ps 
+
+docker pull images_name
+
+docker serach image_name
+
+docker create container -it image_name
+
+docker start container_name/id
+
